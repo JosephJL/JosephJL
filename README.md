@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephjl&show_icons=true&locale=en" alt="josephjl" /></p><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephjl&show_icons=true&locale=en&layout=compact" alt="josephjl" /></p>
 
-
+<!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephjl&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephjl&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephjl&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephjl&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephjl&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephjl&theme=github) -->
